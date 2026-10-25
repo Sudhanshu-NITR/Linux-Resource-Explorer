@@ -208,7 +208,7 @@ ctest --output-on-failure
 ✅ Unit and integration testing without external frameworks  
 ✅ Clear, maintainable C++17 code  
 
-## What This Project Does NOT Demonstrate
+<!-- ## What This Project Does NOT Demonstrate
 
 ❌ Kernel module development  
 ❌ GPU/CUDA programming  
@@ -224,4 +224,4 @@ ctest --output-on-failure
 | [CONCEPTS.md](docs/CONCEPTS.md) | Linux and C++ concepts explained for beginners |
 | [INTERVIEW_QUESTIONS.md](docs/INTERVIEW_QUESTIONS.md) | 30 technical interview questions with answers |
 | [DEBUGGING_GUIDE.md](docs/DEBUGGING_GUIDE.md) | How to debug, inspect warnings, and diagnose issues |
-| [CODE_WALKTHROUGH.md](docs/CODE_WALKTHROUGH.md) | Line-by-line explanation of every major source file |
+| [CODE_WALKTHROUGH.md](docs/CODE_WALKTHROUGH.md) | Line-by-line explanation of every major source file | -->
